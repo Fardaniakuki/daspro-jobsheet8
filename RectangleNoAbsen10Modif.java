@@ -10,7 +10,7 @@ public class RectangleNoAbsen10Modif {
         
         for (int i = 1; i <= baris; i++) {
             for (int j = 1; j <= kolom; j++) {
-                System.out.print("#"); // Cuma ganti bintang jadi ini
+                System.out.print("#");
             }
             System.out.println();
         }
